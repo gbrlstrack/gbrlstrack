@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on React Native<br>🌱 I’m currently learning Flutter
+
 
 
 ## 🌐 Socials:
