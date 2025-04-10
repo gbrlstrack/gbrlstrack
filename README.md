@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native<br>🌱 I’m currently learning Java
+🔭 I’m currently working on React<br>🌱 I’m currently learning Java
 
 
 
