@@ -4,9 +4,7 @@
 
 Sou **Desenvolvedor Front-end** com sólida experiência em **desenvolvimento Front-End e Mobile**, utilizando principalmente **React, React Native e TypeScript**. Tenho vivência em projetos de grande escala nos setores **logístico, de moda e papel e celulose**, com foco em **performance, escalabilidade e qualidade de código**.  
 
-Possuo experiência com **testes automatizados (Jest)**, **arquitetura limpa**, **CI/CD**, além de boas práticas como **SOLID** e **DDD**. Também tenho conhecimentos em **Java e Spring Boot**, bem como em **Flutter** e integração com **APIs RESTful**.  
-
-Participei do desenvolvimento de sistemas do zero e da evolução de soluções corporativas, atuando em squads ágeis (Scrum) e colaborando diretamente com equipes de **UI/UX** para entregar produtos de alto impacto.  
+Possuo experiência com **testes automatizados (Jest)**, **arquitetura limpa**, **CI/CD**, além de boas práticas como **SOLID** e **DDD**.
 
 📌 **Atualmente, estou no último ano de Engenharia de Software**, e busco novos desafios — especialmente em **vagas remotas** — para me aprofundar em **arquitetura de software, microsserviços e boas práticas de engenharia**.
 
