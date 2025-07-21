@@ -1,19 +1,43 @@
-# 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning Java
+# 👋 Olá, eu sou Gabriel Strack!
 
+### ⚜️ Sobre Mim
 
+Sou **Desenvolvedor Front-end** com sólida experiência em **desenvolvimento Front-End e Mobile**, utilizando principalmente **React, React Native e TypeScript**. Tenho vivência em projetos de grande escala nos setores **logístico, de moda e papel e celulose**, com foco em **performance, escalabilidade e qualidade de código**.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-strack-4930a91b0/) 
+Possuo experiência com **testes automatizados (Jest)**, **arquitetura limpa**, **CI/CD**, além de boas práticas como **SOLID** e **DDD**. Também tenho conhecimentos em **Java e Spring Boot**, bem como em **Flutter** e integração com **APIs RESTful**.  
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Java](https://img.shields.io/badge/Java-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gbrlstrack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=gbrlstrack&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlstrack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Participei do desenvolvimento de sistemas do zero e da evolução de soluções corporativas, atuando em squads ágeis (Scrum) e colaborando diretamente com equipes de **UI/UX** para entregar produtos de alto impacto.  
+
+📌 **Atualmente, estou no último ano de Engenharia de Software**, e busco novos desafios — especialmente em **vagas remotas** — para me aprofundar em **arquitetura de software, microsserviços e boas práticas de engenharia**.
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=gbrlstrack&icon=8&color=12)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Tecnologias e Ferramentas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+
+### 📊 GitHub Stats
+
+<p>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gbrlstrack&show_icons=true&theme=tokyonight&count_private=true"/> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlstrack&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Minhas redes:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-strack)
+[![Email](https://img.shields.io/badge/Email-gbrlstrack@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbrlstrack@gmail.com)
+
+---
